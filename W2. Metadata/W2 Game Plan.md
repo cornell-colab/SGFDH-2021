@@ -14,7 +14,7 @@ Dooley, D.M., Griffiths, E.J., Gosal, G.S. et al. FoodOn: a harmonized food onto
 
 ### During the Session
 
-#### Exercises - see Box folder for Day 2 - https://cornell.box.com/s/6alsley8x1n89goc9hobj5f4tvsp3kl3
+#### Exercises - see Box folder for Day 2 - https://cornell.box.com/s/jo1lmzyaqu3msatgm95oqmyoghk7rd4f 
  * Ontology of Jars Boxnote - https://cornell.box.com/s/qq66xx2rejec4snu8v17uzpqopziibuo
  * Ontology of Hats Boxnotes
    * Breakout 1 - https://cornell.box.com/s/13eda55bv5cmqdpe8hqhylm2lf9xlehw
