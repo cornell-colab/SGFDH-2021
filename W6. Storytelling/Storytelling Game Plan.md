@@ -12,7 +12,7 @@ As humans, we have been telling each other stories for a long time, much longer 
  * Clean Streets (~3 min) - https://www.youtube.com/watch?v=gvdIaLHYUws
  * Miss Devine (~3 min) - https://www.youtube.com/watch?v=KQF79ch6mA8
 
-### -- Breakouts - what makes a story? 
+### Breakouts - what makes a story? 
 storytelling, story arcs, storycorps, assign robert krulwich
 Join your breakout group to discuss the assigned content.  Refer to the documents prepared for you below in teh box folder for day 6 - https://cornell.box.com/s/1ihpi9ejghl9m0qrarg6p37w2wjz4n0v
 * Breakout 1 - 
