@@ -19,7 +19,7 @@ Join your breakout group to discuss the assigned content.  Refer to the document
 ### Ethics of storytelling (EB - please fill out) 
 telling an honest story. (data vis alberto cairo). 
 
-### Applied storytelling
+### Applied storytelling (with data)
 experimenting with telling different stories with data. Breakouts -- give them data, assign them different stories to tell (1st breakout to talk about the listening assignments)
 
 
