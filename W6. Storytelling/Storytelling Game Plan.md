@@ -3,12 +3,20 @@
 As humans, we have been telling each other stories for a long time, much longer than we have recorded history to know.  It is arguable that even as the forms of story differ from culture to culture, stories themselves in whatever form are fundamental to culture.  Recent neuroscience seems to indicate that our brains are constructed to respond preferentially to storytelling, so it makes sense that exploring the techniques of storytelling can assist us to communicate fully, to gain sensitivity to detect manipulative omissions, and to strike an ethical balance when communicating our own research and conclusions from data.  
 
 ### Before the Session
-* View this short video - Kurt Vonnegut, The shapes of stories - https://www.youtube.com/watch?v=oP3c1h8v2ZQ
-* Listen to the audio for these StoryCorps segments
-** link
-* Spend a little time thinking about stories with which you are familiar, and that have struck you as particularly effective.  Works of fiction and non-fiction alike are welcome.  What makes these stories effective, memorable, and/or enjoyable? Come to class prepared to discuss your thoughts.
+* View this short video - Kurt Vonnegut, The shapes of stories (~5min) - https://www.youtube.com/watch?v=oP3c1h8v2ZQ
+* Read or listen to Robert  Krulwich's commencement address to the Cal Tech class of 2008 (~30 min) - https://www.wnycstudios.org/podcasts/radiolab/articles/91852-tell-me-a-story  
+* Watch these StoryCorps segments - If you are unfamiliar with StoryCorps, take some time to peruse in their About page - https://storycorps.org/about/
+ * Lessons Learned (~3 min) - https://storycorps.org/animation/lessons-learned/
+ * The Saint of Dry Creek (~3 min) - https://www.youtube.com/watch?v=3wHjJUdN16k 
+ * No More Questions! (~3 min) - https://www.youtube.com/watch?v=xSKuOccVVKg 
+ * Clean Streets (~3 min) - https://www.youtube.com/watch?v=gvdIaLHYUws
+ * Miss Devine (~3 min) - https://www.youtube.com/watch?v=KQF79ch6mA8
 
-### -- storytelling, story arcs, storycorps, assign robert krulwich
+### -- Breakouts - what makes a story? 
+storytelling, story arcs, storycorps, assign robert krulwich
+Join your breakout group to discuss the assigned content.  Refer to the documents prepared for you below in teh box folder for day 6 - https://cornell.box.com/s/1ihpi9ejghl9m0qrarg6p37w2wjz4n0v
+* Breakout 1 - 
+* Breakout 2 - 
 
 ### Ethics of storytelling (EB) 
 telling an honest story. (data vis alberto cairo). 
