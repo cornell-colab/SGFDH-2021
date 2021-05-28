@@ -5,7 +5,7 @@ As humans, we have been telling each other stories for a long time, much longer 
 ### Before the Session
 * View this short video - Kurt Vonnegut, The shapes of stories - https://www.youtube.com/watch?v=oP3c1h8v2ZQ
 * Listen to the audio for these StoryCorps segments
-* * link
+** link
 * Spend a little time thinking about stories with which you are familiar, and that have struck you as particularly effective.  Works of fiction and non-fiction alike are welcome.  What makes these stories effective, memorable, and/or enjoyable? Come to class prepared to discuss your thoughts.
 
 ### -- storytelling, story arcs, storycorps, assign robert krulwich
