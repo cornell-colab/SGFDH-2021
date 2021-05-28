@@ -36,7 +36,7 @@ Please post a reflection on something you learned today or that you would still 
 
 Some questions to consider:
 
-* Does your data have metadata? Do you need to create metadata or additional metadata?
-* What metadata might be useful or necessary for you to perform the anlysis and/or create the interface that you plan?
+* What metadata might be useful or necessary for you to perform the analysis and/or create the interface that you plan?
+* Does your project data include sufficient metadata? What metadata might you need to obtain of create?
 * What do you wish you understood better?
-* Anything you learned today that was useful?
+* What have you learned today that was or might be especially useful?
