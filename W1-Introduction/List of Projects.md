@@ -1,28 +1,25 @@
-## Large Projects
+## Team Projects
 
-### Geospatial Visualization
+### Maps & Geospatial Data
  
-* [Slave Revolt in Jamaica, 1760-1761: A Cartographic Narrative](http://revolt.axismaps.com/)  
-Vincent Brown
+* [Mapping the Gay Guides: Visualizing Queer Space and American Life](https://www.mappingthegayguides.org/)
+Amanda Regan, Eric Gonzaba, & Team
  
-* [ORBIS: The Stanford Geospatial Network Model of the Roman World](http://orbis.stanford.edu/)  
-Walter Scheidel & Elijah Meeks
- 
-* Three One-page Data Visualization Projects:  
-[Mapping Islamophobia](http://mappingislamophobia.org/), Caleb Elfenbein and Team  
-[Mapping the Second Ku Klux Klan, 1915-1940](https://labs.library.vcu.edu/klan/), Virginia Commonwealth University Library  
-[The Spread of U.S. Slavery, 1790-1860](https://lincolnmullen.com/projects/slavery/), Lincoln Mullen
+* [Mapping the Second Ku Klux Klan, 1915-1940](https://labs.library.vcu.edu/klan/)
+Team at Virginia Commonwealth University Library  
  
 * [Mapping Prejudice: Racial Covenants and 20th Century Minneapolis](https://www.mappingprejudice.org/)  
 Kirsten Delegard and Teams at Augsburg University and University of Minnesota
 
-* [Anne Whitney Abroad, 1867-1868;The Continental Perspective](http://omeka.wellesley.edu/annewhitney/neatline/show/overview#records/386)
-Jacqueline Marie Musacchio
-An accompaniment to the article [Mapping the "White, Marmoorean Flock": Anne Whitney Abroad, 1867-1868](https://www.19thc-artworldwide.org/index.php/autumn14/musacchio-anne-whitney-abroad)  
+* [Anti-Eviction Mapping Project](https://antievictionmap.com/)
+Volunteer collective of scholars and organizers
 
 * [Torn Apart / Separados Vol. 1](http://xpmethod.plaintext.in/torn-apart/volume/1/) &  
 [Torn Apart / Separados Vol. 2](http://xpmethod.plaintext.in/torn-apart/volume/2/index)  
 Alex Gil, Roopika Risam, Manan Ahmed, Maira Alvarez, et.al. 
+
+* [ORBIS: The Stanford Geospatial Network Model of the Roman World](http://orbis.stanford.edu/)  
+Walter Scheidel & Elijah Meeks
 
 
 ### Networks
@@ -32,44 +29,50 @@ Manolis Patinioti, Eirini Goudarouli, & Vassilis Routisis
 
 * [Linked Jazz](https://linkedjazz.org/)  
 M. Cristina Pattuelli, Matt Miller, & Team
+
  
-### Multimedia Exhibits and Digital Publishing
+### Primary Sources & Digital Publishing
  
+* [Colored Conventions Project](https://coloredconventions.org/)
+P. Gabreille Foreman, Jim Casey, & Team
+
+* [Plant Humanities Lab](https://lab.plant-humanities.org/)
+Team at Dumbarton Oaks Research Library and Collections
+
 * [The Chinese Deathscape: Grave Reform in Modern China](http://chinesedeathscape.org/)  
 Thomas Mullaney & Team
 
 * [Claude McKays Early Poetry 1911-1922; A Digital Collection](https://scalar.lehigh.edu/mckay/index)  
 Amardeep Singh & Students
 
-* [Shining Lights: Magic Lanterns & the Missionary Movement, 1839-1868](http://scalar.maryborgoton.com/shininglights/index)  
-Mary Borgo Ton
 
-* [Greene Street: A Long History of a Short Block](http://www.greenestreet.nyc/)  
-William Easterly, Laura Freschi, & Steven Pennings 
-
-### Building Databases
- 
-* [Photogrammar](http://photogrammar.yale.edu/) (Photos taken by U.S. Farm Security Administration and Office of War Information, 1935-1945)  
-Laura Wexler, Lauren Tilton, Taylor Arnold, & Team
+### Datasets & Databases: Creating, Analyzing, Visualizing 
 
 * [Voyages: The Trans Atlantic Slave Trade Database](http://www.slavevoyages.org/)
 David Eltis, Martin Halbert, & Team  
 See Also: [The Atlantic Slave Trade in Two Minutes](http://www.slate.com/articles/life/the_history_of_american_slavery/2015/06/animated_interactive_of_the_history_of_the_atlantic_slave_trade.html)(A data visualization created by data journalist Andrew Kahn, using the scholarly database as a source.)
 
+* [Digital Harlem: Everyday Life 1915-1930](http://digitalharlem.org/)
+Team at University of Sydney
+
+* [Investigating Indentured Servitude](https://diglib.amphilsoc.org/indenturedata/)
+Team at the American Philosophical Society 
+
 * [Freedom on the Move](http://freedomonthemove.org)  
 (Requires free log in.)    
 Ed Baptist & Team
 
-* [New York Slavery Records Index](https://nyslavery.commons.gc.cuny.edu/)  
-Ned Benton, Judy-Lynne Peters, & Team
-
-* [*La Gaceta de la Habana*](https://github.com/UMiamiLibraries/collections-as-data/tree/master/LaGaceta)  
-Paige Morgan & Team at University of Miami Libraries (Paige is now at U. Delaware.)
+* [Shakespeare and Company: Recreating the world of the Lost Generation in interwar Paris](https://shakespeareandco.princeton.edu/)
+Joshua Kotin, Rebecca Sutton Koeser, & Team
  
 ### Text 
  
-* [America’s Public Bible (Bible Quotations in Newspapers Throughout the 19th century)](http://americaspublicbible.org/)  
-Lincoln Mullen
+* [The Goodreads "Classics": A Computational Study of Readers, Amazon, and Crowdsourced Amateur Criticism](https://post45.org/2021/04/the-goodreads-classics-a-computational-study-of-readers-amazon-and-crowdsourced-amateur-criticism/)
+Melanie Walsh & Maria Antoniak
+(This one is a little different from the rest, as it's actually a peer-reviewed academic article. With interactive visualizations.)
+
+* [Textual Geographies](https://txtgeo.net/)
+Matthew Wilkens & Team
  
 * [Assessing Language Patterns: A Look at Texas Newspapers, 1829-2008](http://language.mappingtexts.org/)  
 A Collaboration of The Texas Digital Newspaper Program, University of North Texas &
@@ -78,10 +81,13 @@ The Bill Lane Center for the American West, Stanford University
 * [*Vogue* N-gram Search](http://bookworm.library.yale.edu/) & [Topic Modelling *Vogue*](http://dh.library.yale.edu/projects/vogue/topics/), part of the larger [Robots Reading Vogue](http://dh.library.yale.edu/projects/vogue/) project.  
 Lindsay King, Peter Leonard, & Team
 
-* [Intertext](https://github.com/YaleDHLab/intertext)  
-Peter Leonard & Team at Yale DH Lab
+* [Viral Texts](https://viraltexts.org/)  
+Ryan Cordell, David A. Smith & Team
 
 ### Images
+
+* [Photogrammar](http://photogrammar.yale.edu/) (Photos taken by U.S. Farm Security Administration and Office of War Information, 1935-1945)  
+Laura Wexler, Lauren Tilton, Taylor Arnold, & Team
 
 * [Library of Congress Colors](https://loc-colors.glitch.me/)  
 Laura Wrubel
@@ -89,22 +95,52 @@ Laura Wrubel
 * [*Vogue* Covers in Colormetric Space](http://dh.library.yale.edu/projects/vogue/colormetricspace/) and [Averaging Covers in *Vogue*](http://dh.library.yale.edu/projects/vogue/coveraverages/), part of the larger [Robots Reading Vogue](http://dh.library.yale.edu/projects/vogue/) project.  
 Lindsay King, Peter Leonard, & Team
 
-## Projects by Summer Fellow Alums (& Other Students)
+## Student-led Projects
 
-* [John Mandeville and the Hereford Map](http://historiacartarum.org/john-mandeville-and-the-hereford-map-2/what-are-you/)  
-John Wyatt Greenlee (Medieval Studies)
+### Mapping
 
 * [Communal Currents: Visualizing Historical Connections](https://communalcurrents.org/)  
-Molly Reed (History)
+Molly Reed (Cornell History)
 
-* [De raptu meo](http://chaumpaigne.org/)  
-Anna Waymack (Medieval Studies)
+* [Virtual Cartographies: Visualizing Mass Grave Recovery in Contemporary Spain](http://virtualcartographies.com/index.html)
+Wendy Perla Kurtz (UCLA Spanish and Portuguese)
 
-* [Parthian Sources Online](http://parthiansources.com/)  
-Jake Nabel (Classics)
+* [The Mail Map](http://www.christypottroff.com/page-dh)
+Christy Pottroff (Fordham English)
 
-* [Global Poetics](https://globalpoetics.org/)
-Ama Bemma Adwetewa-Badu (English)
+* [Mapping Mobility: Spatial and Class Change in the Gilded Age Wall Street Workforce](https://gscho.net/scalar/mapping-clerks/index)
+Atiba Pertilla
+(If you can't view the embedded maps, click on the "Source File" links.)
+
+* [John Mandeville and the Hereford Map](http://historiacartarum.org/john-mandeville-and-the-hereford-map-2/what-are-you/)  
+John Wyatt Greenlee (Cornell Medieval Studies)
 
 * [Brooklyn Anthems Atlas](https://cornellcolab.net/BrooklynAnthemsAtlas/neatline/fullscreen/brooklyn-anthems-atlas)  
-Avi Simon (undergrad)
+Avi Simon (Cornell undergrad)
+
+### Databases
+
+* [Global Poetics](https://globalpoetics.org/)
+Ama Bemma Adwetewa-Badu (Cornell Literatures in English)
+
+### Networks
+
+* [Editorial Networks of the Antebellum African American Press](http://jim-casey.com/enap/)
+Jim Casey (University of Delaware English)
+
+### Primary Source Curation
+
+* [Periodical Poets](http://periodicalpoets.com/)
+Charline Jao (Cornell Literatures in English)
+
+* [East Bay Punk Digital Archive](https://eastbaypunkda.com/s/east-bay-punk-digital-archive/page/home)
+Stefano Merello (CUNY - Graduate Center)
+
+* [De raptu meo](http://chaumpaigne.org/)  
+Anna Waymack (Cornell Medieval Studies)
+
+* [A Colony in Crisis: The Saint-Domingue Grain Shortage of 1789](https://colonyincrisis.lib.umd.edu/)
+A team of researchers who were all students at the time the project began.
+
+* [Parthian Sources Online](http://parthiansources.com/)  
+Jake Nabel (Cornell Classics)
