@@ -14,8 +14,7 @@ Kirsten Delegard and Teams at Augsburg University and University of Minnesota
 * [Anti-Eviction Mapping Project](https://antievictionmap.com/)
 Volunteer collective of scholars and organizers
 
-* [Torn Apart / Separados Vol. 1](http://xpmethod.plaintext.in/torn-apart/volume/1/) &  
-[Torn Apart / Separados Vol. 2](http://xpmethod.plaintext.in/torn-apart/volume/2/index)  
+* [Torn Apart / Separados Vol. 1](http://xpmethod.plaintext.in/torn-apart/volume/1/) & [Torn Apart / Separados Vol. 2](http://xpmethod.plaintext.in/torn-apart/volume/2/index)  
 Alex Gil, Roopika Risam, Manan Ahmed, Maira Alvarez, et.al. 
 
 * [ORBIS: The Stanford Geospatial Network Model of the Roman World](http://orbis.stanford.edu/)  
