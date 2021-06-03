@@ -2,10 +2,10 @@
 
 ### Maps & Geospatial Data
  
-* [Mapping the Gay Guides: Visualizing Queer Space and American Life](https://www.mappingthegayguides.org/)
+* [Mapping the Gay Guides: Visualizing Queer Space and American Life](https://www.mappingthegayguides.org/)  
 Amanda Regan, Eric Gonzaba, & Team
  
-* [Mapping the Second Ku Klux Klan, 1915-1940](https://labs.library.vcu.edu/klan/)
+* [Mapping the Second Ku Klux Klan, 1915-1940](https://labs.library.vcu.edu/klan/)  
 Team at Virginia Commonwealth University Library  
  
 * [Mapping Prejudice: Racial Covenants and 20th Century Minneapolis](https://www.mappingprejudice.org/)  
