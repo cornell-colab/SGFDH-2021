@@ -32,7 +32,7 @@ Both published by Scott Ziegler, Michelle Zioglas, and students. Accessed via th
 ### After the Session  
 * Play around a little more with Open Refine. Try to address (or partially address) some of the research questions in the [boxnote](https://cornell.app.box.com/notes/819798134709), or use it with your own data. 
 
-Questions to consider in your reflection post:  
+Potential questions to consider in your reflection post:  
 * What new questions, insights, or confusions did you generate during or after today's session?
 * In what ways does your project dataset reflect a worldview of your own, someone else's, or multiple other people's?
 * What are some ways you may want to clean your current project dataset? How confident are you feeling about devising a strategy to do so? What else do you want to learn in order to design, clean, or process your dataset or databse?
