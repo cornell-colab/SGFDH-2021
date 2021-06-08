@@ -1,4 +1,4 @@
-# Tabular Data I: Cleaning & Exploring  
+# Tabular Data: Cleaning & Exploring  
   
 ### Before the Session
 
