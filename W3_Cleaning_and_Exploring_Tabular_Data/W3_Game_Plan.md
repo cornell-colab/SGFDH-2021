@@ -2,14 +2,14 @@
   
 ### Before the Session
 
-* **Download and Install** [OpenRefine 3.3](https://openrefine.org/download.html)  
+* **Download and Install** [OpenRefine 3.4.1](https://openrefine.org/download.html)  
 Find detailed instructions for installation on this [OpenRefine Github page](https://github.com/OpenRefine/OpenRefine/wiki/Installation-Instructions).  
 (Scroll down to the section with separate instructions for Windows and Macs.) Email Eliza with any problems or questions.
 
 * **Download the dataset Eastern_State_Admission_Book.csv**  
--- Go to W3_Cleaning_and_Exploring_Tabular_Data > Eastern_State_Admission_Book.csv, and click on the name of the dataset. A page will open, and you'll see a preview of the data table.  
--- Toward the upper-right, you'll see a button that says "Raw." RIGHT-click it and choose "Save Link As."  
--- Choose a place on your machine to store it, and download it. 
+1. Go to [W3_Cleaning_and_Exploring_Tabular_Data](https://github.com/cornell-colab/SGFDH-2021/tree/main/W3_Cleaning_and_Exploring_Tabular_Data) and click on the link to Eastern_State_Admission_Book.csv. A page will open, and you'll see a preview of the data table.  
+2. Toward the upper-right, you'll see a button that says "Raw." RIGHT-click it and choose "Save Link As."  
+3. Choose a place on your machine to store it, and download it. 
 
 * **Read** Davis, H. (2019). "[A Dataset is a Worldview](https://towardsdatascience.com/a-dataset-is-a-worldview-5328216dd44d)," a blog post on *Towards Data Science*, a *Medium* vertical.  
 This short post is about datasets used in machine learning. But the idea that a dataset reflects a worldview is just as relevant to your creation of metadata schema as it is to considering the data used in machine learning, and it should be good food for thought now as well as later.
