@@ -4,6 +4,9 @@
   * It can be in any language (the more the merrier!) Try to pick something moderatley long (100+ pages) 
   * It should be in one of these formats: plain text, HTML, XML, PDF, RTF, or MS Word (beware that the PDF format should have underlying text - a picture-only version will not suffice.  If you are unsure, try searching on a word in the PDF - if you can't find a term through the search function, the document likely has no underlying textflow.) 
   * The text will be uploaded to a cloud-based tool, so it should not contain anything you determine is sensitive information.  The privacy policy can be found in full here: https://voyant-tools.org/docs/#!/guide/about-section-privacy-statement 
+  * If you get really stuck, here are some sources for openly available text
+  ** Early English Books Online - https://quod.lib.umich.edu/e/eebogroup/
+  ** Project Gutenberg - https://www.gutenberg.org/
 
 
 #### 2. Come to the session prepared to share your screen. 
