@@ -40,9 +40,9 @@ Some questions to consider:
 #### Tools: 
  * antconc (https://www.laurenceanthony.net/software/antconc/) - another low barrier tool for text analysis.  Freeware. Runs locally (not cloud based.) 
  * HathiTrust Research Center - https://www.hathitrust.org/htrc
-  ** Tools overview - https://www.hathitrust.org/htrc_collections_tools
-  ** The analytics portal - https://analytics.hathitrust.org/
-  ** Help wiki - https://wiki.htrc.illinois.edu/x/CAAb - there are also community calls and office hours for help with projects.
+   * Tools overview - https://www.hathitrust.org/htrc_collections_tools
+   * The analytics portal - https://analytics.hathitrust.org/
+   * Help wiki - https://wiki.htrc.illinois.edu/x/CAAb - there are also community calls and office hours for help with projects.
  * python (https://www.python.org/) - a popular open-source programming language very useful for text clearning and text analysis.  There are many good tutorials online.  
  * R (https://www.r-project.org/) - a popular open-source programming language (oriented towards statistics) very useful for text clearning and text analysis.  There are many good tutorials online.  
 
