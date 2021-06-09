@@ -3,8 +3,7 @@
 ### Before the Session
 
 * **Download and Install** [OpenRefine 3.4.1](https://openrefine.org/download.html)  
-Find detailed instructions for installation on this [OpenRefine user manual](https://docs.openrefine.org/manual/installing).  
-(Scroll down to the section with separate instructions for Windows and Macs.) Email Eliza with any problems or questions.
+Email Eliza with any problems or questions.
 
 * **Download the dataset Eastern_State_Admission_Book.csv**  
 1. Go to [W3_Cleaning_and_Exploring_Tabular_Data](https://github.com/cornell-colab/SGFDH-2021/tree/main/W3_Cleaning_and_Exploring_Tabular_Data) and click on the link to Eastern_State_Admission_Book.csv. A page will open, and you'll see a preview of the data table.  
