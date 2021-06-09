@@ -8,8 +8,11 @@
     * Early English Books Online - https://quod.lib.umich.edu/e/eebogroup/
     * Project Gutenberg - https://www.gutenberg.org/
 
+#### 2. Windows users, you may wan tto download Chrome and make sure it is running.  Voyant can be a little buggy with Firefox.  I think Edge is OK.  Mac users, I believe Safari will work fine, and there is also a Chrome version for your platform.  
 
-#### 2. Come to the session prepared to share your screen. 
+#### 3. Come to the session prepared to share your screen. 
+
+
 
 ### During the Session
 #### 1. We will do a group exercise with a toolset called Voyant.  
