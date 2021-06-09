@@ -3,7 +3,7 @@
 ### Before the Session
 
 * **Download and Install** [OpenRefine 3.4.1](https://openrefine.org/download.html)  
-Find detailed instructions for installation on this [OpenRefine Github page](https://github.com/OpenRefine/OpenRefine/wiki/Installation-Instructions).  
+Find detailed instructions for installation on this [OpenRefine Github page](https://docs.openrefine.org/manual/installing).  
 (Scroll down to the section with separate instructions for Windows and Macs.) Email Eliza with any problems or questions.
 
 * **Download the dataset Eastern_State_Admission_Book.csv**  
