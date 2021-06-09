@@ -47,6 +47,6 @@ Some questions to consider:
   * R (https://www.r-project.org/) - a popular open-source programming language (oriented towards statistics) very useful for text clearning and text analysis.  There are many good tutorials online.  
 #### Supplemental readings and explorations
  * David Mimno - Cornell Professor of Information Science (https://mimno.infosci.cornell.edu/) - research focus on computational methods with text.  Blog, code, prototypes and more
- * Ted Underwood University of Illinois, Urbana-Champaign professor of Information Sciences and English - (https://tedunderwood.com/ted-underwood/) blog that discusses his computational work in English.
+ * Ted Underwood - University of Illinois, Urbana-Champaign professor of Information Sciences and English - (https://tedunderwood.com/ted-underwood/) blog that discusses his computational work in English.
  * Matthew Jockers professor of English and Data Analytics, now at Apple - (https://www.matthewjockers.net/) - work in sentiment analysis mostly using R. 
 
