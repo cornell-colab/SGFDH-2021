@@ -64,6 +64,6 @@ You can make pivot tables with any almost any spreadsheet software, including [L
 
 “Open source” means that the code is open to inspection and modification by anyone. “Free” means users don’t pay fees to use it.( * ) If you don’t already have a firm favorite among these software options, I’d recommend making your first pivot table with **Sheets**, whose user interface I find the simplest. It's easy to jump in and start playing. But above, you can find step-by-step instructions for making pivot tables with any of these software packages. 
 
-( * ) *Whether or not a company charges a fee to use their software, it may require users to pay with their privacy and their willingness to be subject to data surveillance, as in the case of both Google Sheets and MicrosoftOffice 365. LibreOffice does not collect data on users.*
+*Whether or not a company charges a fee to use their software, it may require users to pay with their willingness to be subject to data surveillance, as in the case of both Google Sheets and MicrosoftOffice 365. LibreOffice does not collect data on users.*
 
 
