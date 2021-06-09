@@ -39,7 +39,7 @@ Some questions to consider:
 
 #### Tools: 
  * antconc (https://www.laurenceanthony.net/software/antconc/) - another low barrier tool for text analysis.  Freeware. Runs locally (not cloud based.) 
- * HathiTrust Research Center - https://www.hathitrust.org/htrc
+ * HathiTrust Research Center - https://www.hathitrust.org/htrc - tools of varying sophistication, datasets and more for over 17 million vols in HathiTrust
    * Tools overview - https://www.hathitrust.org/htrc_collections_tools
    * The analytics portal - https://analytics.hathitrust.org/
    * Help wiki - https://wiki.htrc.illinois.edu/x/CAAb - there are also community calls and office hours for help with projects.
