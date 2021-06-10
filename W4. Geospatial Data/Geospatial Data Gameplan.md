@@ -26,8 +26,12 @@ Wendy Perla Kurtz (UCLA Spanish and Portuguese)
 * [Global Poetics](https://globalpoetics.org/)  
 Ama Bemma Adwetewa-Badu (Cornell Literatures in English)  
 
+* [Chapakhana: Mapping the Spread of Print in South Asia](https://chapakhana.rcc.uchicago.edu/about/)  
+Ulrike Stark & Team
+
 ### After the Session  
 
-Continue playing with either Carto, Umap, or both. When you have a question about how to do something, try to figure it out from the documentation, then ask a question on the class message boards. Bring the map to some stage of completion, and share a link to it in your Daily Comment post, along with a note about anything victories (things you figured out) or challenges (things you're still trying to figure out) you encountered. Your map can depict anything! Here are a couple of examples, if you're stumped:  
+Continue playing with either Carto, Umap, or both. When you have a question about how to do something, try to figure it out from the documentation, then ask a question on the class message boards. **Bring a map to some stage of completion, and share a link to it in your Daily Comment post, along with a note about any victories (things you figured out) or challenges (things you're still trying to figure out) you encountered.** Your map can depict anything! Here are a couple of examples, if you're stumped:  
 * A map of all the Cocker Spaniels *and* all the Pit Bulls in Milwaukee County (2011)  
 * A map of the last 5 photos in your photo roll and where they were taken, with whatever metadata you choose.
+* A map of a few pieces of data from your summer project.
