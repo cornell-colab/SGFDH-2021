@@ -22,8 +22,8 @@
 
 #### 2. In breakouts, you will practice using the tool with the texts you brought. You'll explore the tools and determine where the tools excel and where they seem to break down. I encourage you to use screen sharing in your breakouts to demonstrate interesting features/tools you discover, and to grow your understanding as a group. 
 Documents to record your findings:
-  * Group 1 - https://cornell.app.box.com/notes/820272042784
-  * Group 2 - https://cornell.app.box.com/notes/820273146291
+  * Group 1 - https://cornell.box.com/s/4tlcuur8t28fjm6f3e7h9rnn0167q2h4
+  * Group 2 - https://cornell.box.com/s/tfe17swaen1bbq3f6ulpboidtjxkvwel
 
 You will be asked to
   * Agree upon a list of at least three things you liked most about this tool (can be more).
