@@ -27,7 +27,14 @@ Wendy Perla Kurtz (UCLA Spanish and Portuguese)
 Ama Bemma Adwetewa-Badu (Cornell Literatures in English)  
 
 * [Chapakhana: Mapping the Spread of Print in South Asia](https://chapakhana.rcc.uchicago.edu/about/)  
-Ulrike Stark & Team
+Ulrike Stark & Team  
+
+#### How to hotlink a multimedia file in Box (Using Box as an Image Host)
+
+1. Open the file in Box, and click "Share."
+2. In the dialogue box that appears, make sure that "People with the link" "Can share and download."
+3. Click "Link Settings."
+4. At the bottom of the new dialogue box, you will see a "Direct Link." This URL will end with .jpg, .png, or another image extension. Click "Copy."
 
 ### After the Session  
 
