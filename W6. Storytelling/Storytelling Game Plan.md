@@ -15,7 +15,7 @@ What is a story? Simply put a story is a telling (or retelling) of events, usual
 * Breakout 1 - https://cornell.box.com/s/cztfd1dui36y8xbm1qbrin4407kmnfwm
 * Breakout 2 - https://cornell.box.com/s/gyjy3onwsgak1lxawsjrb88inwd9zai6
 
-### Ethics of storytelling (EB - please fill out) 
+### Ethics of storytelling
 Eliza will lead a discussion involving visualization of data, representation, and ethics. We will reference the work of Alberto Cairo (http://albertocairo.com/). 
 
 ### What story am I being told? What story can I tell? 
