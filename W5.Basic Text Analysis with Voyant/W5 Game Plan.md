@@ -6,7 +6,8 @@
   * The text will be uploaded to a cloud-based tool, so it should not contain anything you determine is sensitive information.  The privacy policy can be found in full here: https://voyant-tools.org/docs/#!/guide/about-section-privacy-statement 
   * If you get really stuck, here are some sources for openly available text
     * Early English Books Online - https://quod.lib.umich.edu/e/eebogroup/
-    * Project Gutenberg - https://www.gutenberg.org/
+    * Project Gutenberg - https://www.gutenberg.org/  
+    * Documenting the American South - https://docsouth.unc.edu/docsouthdata/
 
 #### 2. Windows users, you may wan to download Chrome and make sure it is running.  Voyant can be a little buggy with Firefox.  I think Edge is OK.  Mac users, I believe Safari will work fine, and there is also a Chrome version for your platform.  
 
