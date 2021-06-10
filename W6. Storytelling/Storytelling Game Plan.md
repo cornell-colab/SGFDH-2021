@@ -21,8 +21,8 @@ Eliza will lead a discussion involving visualization of data, representation, an
 ### What story am I being told? What story can I tell? 
 Breakouts - On the first day we gathered, we referred to a list of digital projects. (See https://github.com/cornell-colab/SGFDH-2021/blob/main/W1-Introduction/List%20of%20Projects.md).  In your breakout group:
   *  Open up your group document
-    *  Group 1 - https://cornell.app.box.com/notes/820624007004
-    *  Group 2 - https://cornell.app.box.com/notes/820638494054
+     *  Group 1 - https://cornell.app.box.com/notes/820624007004
+     *  Group 2 - https://cornell.app.box.com/notes/820638494054
   *  Decide on a project from the project list (link above) to review together.  
   *  Discuss the data the project visualizes, and how that data is being visualized. 
   *  Record your reflections in the documents. (This will make sharing with the full group easier.)  
