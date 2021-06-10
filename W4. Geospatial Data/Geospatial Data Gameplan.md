@@ -16,6 +16,14 @@ Choose a place on your machine to store it, and download it. **Make sure to save
 
 ### During the Session  
 
+#### Big Concepts  
+
+* Visualization is a means of research. ([Richard White](https://web.stanford.edu/group/spatialhistory/media/images/publication/what%20is%20spatial%20history%20pub%20020110.pdf))  
+  
+* Geospatial data = table + geometry + geospatial location  
+  
+* Geospatial geometry types: point, line, polygon
+
 #### Umap Examples
 
 * [Virtual Cartographies: Visualizing Mass Grave Recovery in Contemporary Spain](http://virtualcartographies.com/index.html)  
