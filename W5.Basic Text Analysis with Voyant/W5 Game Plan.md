@@ -46,9 +46,12 @@ Some questions to consider:
 #### Reading for Tuesday  
 
 * Walsh, Melanie & Maria Antoniak (April 2021) [The Goodreads "Classics": A Computational Study of Readers, Amazon, and Crowdsourced Amateur Criticism](https://post45.org/2021/04/the-goodreads-classics-a-computational-study-of-readers-amazon-and-crowdsourced-amateur-criticism/). _Post 45_, Issue 7.  
-* 
+* [The Goodreads Classics: Computationally Analyzing Goodreads Reviews](https://melaniewalsh.github.io/Goodreads-Classics/). This is the site where Melanie has published interactive versions of the data visualizations from the article, as well as the code she used to scrape the reviews. Try out some of the visualizations, and see what you can find!
 
-Melanie will lead the workshop on Tuesday, so bring her your questions! It's fine to focus on the section "Topic Modeling Goodreads Reviews," and skim the rest.
+Melanie will lead the workshop on Tuesday, so bring her your questions! Most important parts:  
+1. The section in the article titled "Topic Modeling Goodreads Reviews"  
+2. The interactive data visualizations.  
+It's fine to skim the rest if your time is limited.
 
 ### Resources
 
