@@ -41,7 +41,13 @@ Please post a reflection on something you learned today or that you would still 
 Some questions to consider:
 
 * Can you imagine using methods of distant reading in your project? If so, what methods?
-* Are there uses outside of your project where text analysis might be useful? 
+* Are there uses outside of your project where text analysis might be useful?  
+  
+#### Reading for Tuesday  
+
+Walsh, Melanie & Maria Antoniak (April 2021) [The Goodreads "Classics": A Computational Study of Readers, Amazon, and Crowdsourced Amateur Criticism](https://post45.org/2021/04/the-goodreads-classics-a-computational-study-of-readers-amazon-and-crowdsourced-amateur-criticism/). _Post 45_, Issue 7.
+
+Melanie will lead the workshop on Tuesday, so bring her your questions! It's fine to focus on the section "Topic Modeling Goodreads Reviews," and skim the rest.
 
 ### Resources
 
