@@ -27,25 +27,28 @@ This site comprises Ton’s dissertation in the English Dept. at Indiana Univers
 * [How Convenient are our Conveniences?: The demise of underground facilities in Dunedin (New Zealand) 1910s-1980s](https://scalar.usc.edu/works/conveniences/index) (Alison Breese)  
 This site comprises Breese’s entirely digital thesis for her MA at University of Otago. The topic includes public architecture. Look for the ways that Breese makes use of digital illustrations. (Note the timeline and maps seem to be broken the last time I checked.)  
 
-### [Omeka Classic](https://omeka.org/classic/)  
+### [Omeka Classic](https://omeka.org/classic/) 
 
 [User Manual / Documentation](https://omeka.org/classic/docs/)  
 Tutorial: [Up and Running with Omeka.net](https://programminghistorian.org/en/lessons/up-and-running-with-omeka) by Miriam Posner, *The Programming Historian*  (SKIP the part on signing up for Omeka.net.)  
 Tutorial: [Creating an Omeka Exhibit](https://programminghistorian.org/en/lessons/creating-an-omeka-exhibit) by Miriam Posner & Megan R. Brett, *The Programming Historian*   
 
 •	Designed for managing collections of digital objects (images, audio, video) and their metadata.  
-•	Allows you to create displays or digital exhibits of your digital objects.  
+•	Also allows you to create displays or digital exhibits of your digital objects.  
   
 **Owner/Developer**: Roy Rosenzweig Center for History and New Media at George Washington University.  
-**Hosting**: Each Omeka instance must be hosted somewhere. The Cornell CoLab can host it for you for free on our site OR you can host your instance on your own site and your own domain via Reclaim Hosting (see below). (What I do not recommend is hosting your via Omeka.net, which collects a fee, but does not allow full control of your site and plug-ins.)  
+**Hosting**: Each Omeka instance must be hosted somewhere. The Cornell CoLab can host it for you for free on our site temporarily OR you can host your instance on your own site and your own domain via Reclaim Hosting (see below).  
+(What I do not recommend is hosting your via Omeka.net, which collects a fee, but does not allow full control of your site and plug-ins.)  
 
 **Examples:**  
-* [[Japanese Modernism Across Media](https://ds-omeka.haverford.edu/japanesemodernism/home) (Students of Bryn Mawr & Haverford Colleges
-A collection of 11 exhibits which use different approaches to presenting material. Note the embedded Neatline components in some of them.  
 * [Wearing Gay History](http://wearinggayhistory.com/) (Eric Gonzaba & Collaborators)
 Note that you can browse the entire collection of all the digital items via the “T-shirts” tab, and examine curated exhibits via the “Exhibits” tab.  
+* [Japanese Modernism Across Media](https://ds-omeka.haverford.edu/japanesemodernism/home) (Students of Bryn Mawr & Haverford Colleges)
+A collection of 11 exhibits which use different approaches to presenting material. Note the embedded Neatline components in some of them.  
 * [Colored Conventions](https://coloredconventions.org/)  
 Hub for collections, exhibits, visualizations, and coordinated information about a large multi-institutional research project on the history of 19th-century Black abolition and civil rights movements.  
+  
+Note that the final two examples include extensive customization to the look and feel of their sites.
 
 ### [Wordpress](https://wordpress.org/)
 [User Manual / Documentation](https://wordpress.org/support/)  
@@ -56,11 +59,37 @@ Hub for collections, exhibits, visualizations, and coordinated information about
 **Hosting**: Each Wordpress instance must be hosted. You can get free hosting at Wordpress.com, or, for more flexibility and functionality, you can host your own instance on your own domain (see below).  
   
 **Examples**  
-* [De raptu meo](http://chaumpaigne.org/) (Anna Waymack, Cornell Ph.D. candidate in Medieval Studies)
-* [Parthian Sources](https://parthiansources.com/) (Jake Nabel, Cornell SGFDH alum, now prof of Classics at Penn State)  
-* [Angelenos Incarcerated: The LA County Jail Oral History Project](https://angelenosincarcerated.org/) (Joanne Decaro)  
-The platform is Wordpress. There is also a Neatline map embedded.  
+* [De raptu meo](http://chaumpaigne.org/) (Anna Waymack)
+* [Parthian Sources](https://parthiansources.com/) (Jake Nabel)  
+* [Global Poetics Project](https://angelenosincarcerated.org/) (Ama Bemma Adwetewa-Badu)  
 
+### [Jekyll](https://jekyllrb.com/) + [GitHub Pages](https://pages.github.com/)  
+**Documentation:** [Building a static website with Jekyll and GitHub Pages](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages), by Amanda Visconti, in _The Programming Historian._  
+
+* Static web pages are the lightest weight option, best for users with limited bandwidth.  
+* Completely free
+* Requires working with the command line and filling in code. No graphical user interface (GUI) for creating sites. (But tutorials abound.)  
+
+**Owner/Developer**  
+Jekyll: The Core Jekyll Volunteer Team (Jekyll is open source code.)
+GitHub Pages: GitHub, which is owned by Microsoft  
+  
+GitHub Pages is a no-fee host. It's free to use. However, it's good to know that GitHub is a commercial company owned by Microsoft, and can change its terms of service at any time. The good news is that Jekyll makes it easy to export and transport your site to a different host if you want to, for any reason. 
+  
+**Examples**  
+[Magaret Cavendish: Philosophical and Physical Opinions, a digital edition](https://cavendish-ppo.ku.edu/) (Marcy Lascano)  
+Note that this site uses the Jekyll static site generator, but is _not_ hosted on GitHub Pages.  
+* [Digital Space and Place](https://cblevins.github.io/sp18-space-place/) (a course site by Cameron Blevins)  
+* [UN World Statistics Day](https://worldstatisticsday.org/)  
+* [Leaflet for R](https://rstudio.github.io/leaflet/) 
+
+* [Black Solidarity Day](https://nyu-dss.github.io/black-solidarity-day/) (Staff at Columbia University Libraries)  
+* [Style Revolution 1797-1804](https://stylerevolution.github.io/) (Team at Columbia University)  
+Note that these sites are built using a special flavor of Jekyll for managing digital collections, called [Wax](https://minicomp.github.io/wax/)
+
+### Weebly / Wix / Squarespace
+
+Commercial site building companies
 
 
 ## Hosting Your Web Site: Static vs. Dynamic  
@@ -71,16 +100,7 @@ The components of a basic website are HTML, CSS, & JavaScript (JS). All of these
 
 If you need a static web site that is secure and easy to maintain, the software Jekyll and the host [GitHub Pages](https://pages.github.com/) might be a good option. There's a little bit of set up to learn, but once you're set up, your pages are straight-forward to write and maintain. 
 
-*Programming Historian* has [a good tutorial on setting up a Jekyll site hosted by GitHub Pages](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages) (by Amanda Visconti).  
-
-GitHub Pages is a no-fee host. It's free to use. However, it's good to know that GitHub is a commercial company owned by Microsoft, and can change its terms of service at any time. The good news is that Jekyll makes it easy to export and transport your site to a different host if you want to, for any reason. 
-
-Examples of web sites built with Jekyll (some hosted on GitHub Pages):  
-* [New York Data Carpentries Library Consortium](https://nydclc.github.io/)  
-* [Digital Space and Place](https://cblevins.github.io/sp18-space-place/) (a course site by Cameron Blevins)  
-* [UN World Statistics Day](https://worldstatisticsday.org/)  
-* [Leaflet for R](https://rstudio.github.io/leaflet/)  
-* [Collections as Data: Part to Whole](https://collectionsasdata.github.io/part2whole/)  
+*Programming Historian* has [a good tutorial on setting up a Jekyll site hosted by GitHub Pages](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages) (by Amanda Visconti), that includes useful background information. 
 
 Anytime you see the domain github.io, that page is built with Jekyll and *hosted* on GitHub Pages.
 
@@ -105,8 +125,8 @@ If your web site needs a content management system, or a relational database, or
 Let's say you have data or software that you've written and want to make available to others. The standard place to do that is GitHub. If you want, you can also produce a static web site in GitHub Pages that links to your code repository.  
 
 Here are examples of digital projects hosted on GitHub:  
-* La Gaceta de la Habana  
-* Intertext  
+* [La Gaceta de la Habana](https://github.com/UMiamiLibraries/collections-as-data/tree/master/LaGaceta)
+* [Intertext](https://github.com/YaleDHLab/intertext)  
 
 Here is an example of a GitHub Pages front page for a series of code repositories hosted on GitHub:  
 * [Data and Visualization Workshops at NCSU](https://ncsu-libraries.github.io/data-viz-workshops/)  
