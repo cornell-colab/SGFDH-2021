@@ -17,6 +17,9 @@ Have you ever wondered how systems and internet services are organized?  Whether
   
 Examples:  
 * [Claude McKay’s Early Poetry (1911-1922): A Digital Collection](https://scalar.lehigh.edu/mckay/index) (Amardeep Singh)  
+* * [Mapping Mobility: Spatial and Class Change in the Gilded Age Wall Street Workforce](https://gscho.net/scalar/mapping-clerks/index) (Atiba Pertilla)  
+This site was produced as a visual accompaniment to a dissertation.
+(If you can't view the embedded maps, click on the "Source File" links.)
 * [A Photographic History of Oregon State University](http://photohistory.oregonstate.edu/works/photo-history/index)(Larry Landis with OSU Digital Publishing)  
 This site, unlike the other Scalar examples, is primarily image-based. Note the use of tags (how do tags change the user’s experience?) and multiple pathways through the exhibit.  
 * [Shining Lights: Magic Lanterns & The Missionary Movement, 1839-1868](http://scalar.maryborgoton.com/shininglights/index)(Mary Borgo Ton)  
