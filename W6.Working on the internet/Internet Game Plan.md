@@ -83,7 +83,7 @@ Note that this site uses the Jekyll static site generator, but is _not_ hosted o
 * [UN World Statistics Day](https://worldstatisticsday.org/)  
 * [Leaflet for R](https://rstudio.github.io/leaflet/) 
   
-Note that these sites are built using a special flavor of Jekyll for managing digital collections, called [Wax](https://minicomp.github.io/wax/):
+Note that these two sites are built using a special flavor of Jekyll for managing digital collections, called [Wax](https://minicomp.github.io/wax/):
 * [Black Solidarity Day](https://nyu-dss.github.io/black-solidarity-day/) (Staff at Columbia University Libraries)  
 * [Style Revolution 1797-1804](https://stylerevolution.github.io/) (Team at Columbia University)  
 
