@@ -77,15 +77,15 @@ GitHub Pages: GitHub, which is owned by Microsoft
 GitHub Pages is a no-fee host. It's free to use. However, it's good to know that GitHub is a commercial company owned by Microsoft, and can change its terms of service at any time. The good news is that Jekyll makes it easy to export and transport your site to a different host if you want to, for any reason. 
   
 **Examples**  
-[Magaret Cavendish: Philosophical and Physical Opinions, a digital edition](https://cavendish-ppo.ku.edu/) (Marcy Lascano)  
+* [Magaret Cavendish: Philosophical and Physical Opinions, a digital edition](https://cavendish-ppo.ku.edu/) (Marcy Lascano)  
 Note that this site uses the Jekyll static site generator, but is _not_ hosted on GitHub Pages.  
 * [Digital Space and Place](https://cblevins.github.io/sp18-space-place/) (a course site by Cameron Blevins)  
 * [UN World Statistics Day](https://worldstatisticsday.org/)  
 * [Leaflet for R](https://rstudio.github.io/leaflet/) 
-
+  
+Note that these sites are built using a special flavor of Jekyll for managing digital collections, called [Wax](https://minicomp.github.io/wax/):
 * [Black Solidarity Day](https://nyu-dss.github.io/black-solidarity-day/) (Staff at Columbia University Libraries)  
 * [Style Revolution 1797-1804](https://stylerevolution.github.io/) (Team at Columbia University)  
-Note that these sites are built using a special flavor of Jekyll for managing digital collections, called [Wax](https://minicomp.github.io/wax/)
 
 ### Weebly / Wix / Squarespace
 
