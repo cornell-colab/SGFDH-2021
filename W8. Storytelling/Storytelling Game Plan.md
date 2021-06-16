@@ -31,9 +31,17 @@ Breakouts - On the first day we gathered, we referred to a list of digital proje
 
 #### Optional Background Resources for Storytelling
 * Kurt Vonnegut, The shapes of stories (~5min) - https://www.youtube.com/watch?v=oP3c1h8v2ZQ 
+* D'Ignazio, Catherine & Lauren Klein. (2020). ["On Rational, Scietific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints"](https://data-feminism.mitpress.mit.edu/pub/5evfe9yd/release/3) and ["The Numbers Don't Speak for Themselves"](https://data-feminism.mitpress.mit.edu/pub/czq9dfs5/release/2) in [_Data Feminism_](https://data-feminism.mitpress.mit.edu/), an open source book from MIT Press. (All of the chapters are great.)
 * Zak, Paul J., Why Your Brain Loves Good Storytelling; Harvard Business Review; October 28, 2014; https://hbr.org/2014/10/why-your-brain-loves-good-storytelling Retrieved 2020-06-05
 * Garr Williams - Presentation Zen 
   * https://www.presentationzen.com/ 
   * https://www.youtube.com/watch?time_continue=5&v=YbV3b-l1sZs
 * [The Storytelling Brain: How Neuroscience Stories Help Bridge the Gap between Research and Society](https://www.jneurosci.org/content/39/42/8285); Susana Martinez-Conde, Robert G. Alexander, Deborah Blum, Noah Britton, Barbara K. Lipska, Gregory J. Quirk, Jamy Ian Swiss, Roel M. Willems, Stephen L. Macknik;  Journal of Neuroscience 16 October 2019, 39 (42) 8285-8290; DOI: 10.1523/JNEUROSCI.1180-19.2019
-* Chip Heath and Dan Heath, Made to Stick: Why Some Ideas Survive and Others Die - https://newcatalog.library.cornell.edu/catalog/9756439; Chapter 6: Stories
+* Chip Heath and Dan Heath, Made to Stick: Why Some Ideas Survive and Others Die - https://newcatalog.library.cornell.edu/catalog/9756439; Chapter 6: Stories  
+
+### After the Session  
+* [Sign up for an Individual Meeting](https://cornell.app.box.com/notes/822753744499) with Michelle and Eliza  
+* Write a reflection on one of the following:  
+* * Do you anticipate using a text analysis method for your project this summer? Will it be a method related to term frequency and concordances (like we practiced in Voyant), a method related to supervised machine learning (like NER), or a method related to unsupervised machine learning (like topic modeling)? What questions do you have about text analysis methods?  
+* * Do you anticipate telling stories with your data or sources this summer? What type of story to want to tell? What do you want to include? What do you want to avoid? What questions do you have?  
+* Dive into your data and your projects!
