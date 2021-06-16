@@ -42,6 +42,6 @@ Breakouts - On the first day we gathered, we referred to a list of digital proje
 ### After the Session  
 * [Sign up for an Individual Meeting](https://cornell.app.box.com/notes/822753744499) with Michelle and Eliza  
 * Write a reflection on one of the following:  
-* * Do you anticipate using a text analysis method for your project this summer? Will it be a method related to term frequency and concordances (like we practiced in Voyant), a method related to supervised machine learning (like NER), or a method related to unsupervised machine learning (like topic modeling)? What questions do you have about text analysis methods?  
-* * Do you anticipate telling stories with your data or sources this summer? What type of story to want to tell? What do you want to include? What do you want to avoid? What questions do you have?  
+  * Do you anticipate using a text analysis method for your project this summer? Will it be a method related to term frequency and concordances (like we practiced in Voyant), a method related to supervised machine learning (like NER), or a method related to unsupervised machine learning (like topic modeling)? What questions do you have about text analysis methods?  
+  * Do you anticipate telling stories with your data or sources this summer? What type of story to want to tell? What do you want to include? What do you want to avoid? What questions do you have?  
 * Dive into your data and your projects!
