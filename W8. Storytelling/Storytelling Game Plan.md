@@ -45,3 +45,8 @@ Breakouts - On the first day we gathered, we referred to a list of digital proje
   * Do you anticipate using a text analysis method for your project this summer? Will it be a method related to term frequency and concordances (like we practiced in Voyant), a method related to supervised machine learning (like NER), or a method related to unsupervised machine learning (like topic modeling)? What questions do you have about text analysis methods?  
   * Do you anticipate telling stories with your data or sources this summer? What type of story to want to tell? What do you want to include? What do you want to avoid? What questions do you have?  
 * Dive into your data and your projects!
+  
+#### Schedule Changes  
+1. No session Thursday June 17 morning (or on Monday June 21, but this is not a change!)  
+2. Individual meetings will be spread across Thursday and Monday June 21.
+3. Tuesday June 22 will be workshop on Reading Code and JavaScript.
