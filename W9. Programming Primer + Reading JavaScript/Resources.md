@@ -1,7 +1,7 @@
 ### For the Session  
   
-Download and  [Sublime](https://www.sublimetext.com/download)  
-Visual Studio Code is a type of software called a code editor. Other code editors include Atom and Visual Studio Code.
+Download and install [Sublime](https://www.sublimetext.com/download)  
+Sublime is a type of software called a code editor. Other code editors include Atom and Visual Studio Code.
   
 Download [these files](moacir.com/simple-js-maps-files.zip).  
 Then unzip them. 
