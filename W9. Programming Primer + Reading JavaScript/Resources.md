@@ -6,8 +6,6 @@ Sublime is a type of software called a code editor. Other code editors include A
 Download [these files](moacir.com/simple-js-maps-files.zip).  
 Then unzip them. 
   
-[JSBin](http://jsbin.com/?html,output)  
-A code playground for seeing instant results.  
   
 ### Example Leaflet Maps  
   
