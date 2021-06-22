@@ -22,7 +22,7 @@ A map that is part of the larger [Immigrec: Stories of Greek Immigration to Cana
   
 ### Further Reading/Viewing/Reference  
   
-[Simple JavaScript Mapping slides](http://talks.moacir.com/simple-javascript-mapping/#/)
+[Simple JavaScript Mapping slides](http://talks.moacir.com/simple-javascript-mapping/#/)  
 [Simple JavaScript Mapping video](https://www.youtube.com/watch?v=iepGc3prnEA)  
 A tutorial by Moacir P. de Sá Pereira  
 
