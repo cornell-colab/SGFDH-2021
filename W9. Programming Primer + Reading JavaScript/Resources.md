@@ -22,8 +22,9 @@ A map that is part of the larger [Immigrec: Stories of Greek Immigration to Cana
   
 ### Further Reading/Viewing/Reference  
   
-[Simple JavaScript Mapping](https://www.youtube.com/watch?v=iepGc3prnEA)  
-A video tutorial by Moacir P. de Sá Pereira  
+[Simple JavaScript Mapping slides](http://talks.moacir.com/simple-javascript-mapping/#/)
+[Simple JavaScript Mapping video](https://www.youtube.com/watch?v=iepGc3prnEA)  
+A tutorial by Moacir P. de Sá Pereira  
 
 [The JavaScripting English Major](https://the-javascripting-english-major.org/v1/)  
 A semseter-long curriculum by Moacir P. de Sá Pereira  
