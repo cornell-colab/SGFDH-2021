@@ -1,4 +1,4 @@
-### For the Session  
+### Before the Session  
   
 Download and install [Sublime](https://www.sublimetext.com/download)  
 Sublime is a type of software called a code editor. Other code editors include Atom and Visual Studio Code.
