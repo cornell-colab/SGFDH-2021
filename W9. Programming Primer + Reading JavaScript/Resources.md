@@ -8,16 +8,17 @@ Then unzip them.
   
 [JSBin](http://jsbin.com/?html,output)  
 A code playground for seeing instant results.
-
-### Further Reading/Viewing/Reference 
+  
+  
+### Further Reading/Viewing/Reference  
   
 [Simple JavaScript Mapping](https://www.youtube.com/watch?v=iepGc3prnEA)  
 A video tutorial by Moacir P. de Sá Pereira  
 
-[The JavaScripting English Major](https://the-javascripting-english-major.org/v1/)
+[The JavaScripting English Major](https://the-javascripting-english-major.org/v1/)  
 A semseter-long curriculum by Moacir P. de Sá Pereira  
 
-[LeafletJS](https://leafletjs.com/)
+[LeafletJS](https://leafletjs.com/)  
 Documentation and tutorials of the Leaflet JS Library  
   
 [Anatomy of a Web Map](http://maptime.io/anatomy-of-a-web-map/#0)  
