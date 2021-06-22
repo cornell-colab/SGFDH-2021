@@ -29,3 +29,6 @@ Documentation and tutorials of the Leaflet JS Library
 A fun presentation about how web maps (especially base maps) work. Slightly dated now, but all the main principles still apply. Good explanation of what "zoom levels" mean. By Alan McConchie and Beth Schechter
 
 [Mozilla JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)  
+  
+[Stack Overflow](https://stackoverflow.com/)  
+The biggest Q&A site for programming questions. Chances are, you can find many of your programming Qs answered here.
