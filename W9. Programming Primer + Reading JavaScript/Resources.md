@@ -18,6 +18,9 @@ A video tutorial by Moacir P. de Sá Pereira
 
 [The JavaScripting English Major](https://the-javascripting-english-major.org/v1/)  
 A semseter-long curriculum by Moacir P. de Sá Pereira  
+  
+[JavaScript Cheat Sheet](https://the-javascripting-english-major.org/v1/assets/pdfs/cheat-sheet.pdf)  
+A one-pager from Sá Pereira
 
 [LeafletJS](https://leafletjs.com/)  
 Documentation and tutorials of the Leaflet JS Library  
