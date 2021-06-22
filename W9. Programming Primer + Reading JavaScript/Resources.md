@@ -9,6 +9,14 @@ Then unzip them.
 [JSBin](http://jsbin.com/?html,output)  
 A code playground for seeing instant results.  
   
+### Example Leaflet Maps  
+  
+[Encounters in the Quasi-War](http://abbymullen.org/projects/Quasi-War/)  
+Abby Mullen  
+  
+[Map of Greek informants of Immigrec and places of origin and arrival](https://gadolou.github.io/Immigrec/)  
+A map that is part of the larger [Immigrec: Stories of Greek Immigration to Canada](https://immigrec.com) project.
+  
   
   
 ### Further Reading/Viewing/Reference  
