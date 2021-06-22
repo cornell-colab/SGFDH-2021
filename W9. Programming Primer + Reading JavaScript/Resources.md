@@ -12,6 +12,9 @@ Then unzip them.
 [Encounters in the Quasi-War](http://abbymullen.org/projects/Quasi-War/)  
 Abby Mullen  
   
+[On the Shores of Tripoli: William Eaton's Journey from Alexandria to Derna, March - April 1805](http://abbymullen.org/projects/barbary/eaton.html)  
+Abby Mullen
+  
 [Map of Greek informants of Immigrec and places of origin and arrival](https://gadolou.github.io/Immigrec/)  
 A map that is part of the larger [Immigrec: Stories of Greek Immigration to Canada](https://immigrec.com) project.
   
