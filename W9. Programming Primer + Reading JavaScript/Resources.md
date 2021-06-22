@@ -3,7 +3,7 @@
 Download and install [Sublime](https://www.sublimetext.com/download)  
 Sublime is a type of software called a code editor. Other code editors include Atom and Visual Studio Code.
   
-Download [these files](moacir.com/simple-js-maps-files.zip).  
+Download [these files](talks.moacir.com/files/simple-js-maps.zip).  
 Then unzip them. 
   
   
