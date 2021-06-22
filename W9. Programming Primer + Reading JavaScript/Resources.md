@@ -38,7 +38,7 @@ Documentation and tutorials of the Leaflet JS Library
 [Anatomy of a Web Map](http://maptime.io/anatomy-of-a-web-map/#0)  
 A fun presentation about how web maps (especially base maps) work. Slightly dated now, but all the main principles still apply. Good explanation of what "zoom levels" mean. By Alan McConchie and Beth Schechter  
   
-[WWW Schols JavaScript Tutorial](https://www.sublimetext.com/download)  
+[W3Schools JavaScript Tutorial](hhttps://www.w3schools.com/js/DEFAULT.asp)  
   
 [Mozilla JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)  
   
