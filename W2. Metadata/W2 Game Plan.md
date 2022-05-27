@@ -2,7 +2,7 @@
 
 ### Before the Session 
 
-1. Please bring a hat to the session today, *BUT -- conceal it until we have our exercise relating to the hats.* (If you do not own a hat, consider borrowing one, or simply bringing any accessory that can be worn on your head.)  The hat might have an origin story that you wouldn't mind sharing in class, or can be completely utilitarian.  Increased diversity of headgear will make this exercise the most meaningful, so the more unusual, the better. 
+1. Please bring a hat to the session today *-- BUT -- conceal it until we have our exercise relating to the hats.* (If you do not own a hat, consider borrowing one, or simply bringing any accessory that can be worn on your head.)  The hat might have an origin story that you wouldn't mind sharing in class, or can be completely utilitarian.  Increased diversity of headgear will make this exercise the most meaningful, so the more unusual, the better. 
 
 2. Come to the session prepared to share your screen, and to display and discuss a sample of your data for your project. 
 
